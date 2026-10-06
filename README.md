@@ -335,7 +335,7 @@ Il progetto può essere esteso introducendo:
 
 📚 Competenze dimostrate
 
-Il progetto rappresenta un esercizio pratico sui principali concetti della programmazione C++ orientata agli oggetti.
+Il progetto rappresenta un progetto pratico sui principali concetti della programmazione C++ orientata agli oggetti.
 
 In particolare permette di dimostrare la capacità di lavorare con:
 
